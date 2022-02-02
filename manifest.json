@@ -1,0 +1,10 @@
+{
+    "name" : "TimeX",
+    "description" : "An Extension that shows you the current time :D",
+    "version" : "1.0",
+    "manifest_version" : 3,
+    "action" : {
+        "default_popup" : "popup.html",
+        "default_icon" : "diamond.png"
+    }
+}
